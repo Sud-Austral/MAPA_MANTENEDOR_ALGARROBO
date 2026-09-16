@@ -26,6 +26,7 @@ db/*.sqlite
 # Datos crudos (ignorados en git para evitar exceder límites)
 data_raw/
 !data_raw/keys.json
+data_raw2/
 
 # Los PMTiles suelen ser gigantes, se recomienda Git LFS
 # pmtiles/*.pmtiles

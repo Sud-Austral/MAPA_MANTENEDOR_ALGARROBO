@@ -51,3 +51,8 @@ Thumbs.db
 !requirements.txt
 !README.md
 !data_raw/keys.json
+
+# --- Higiene basica: dependencias, artefactos de build y secretos ---
+.env
+.env.local
+.env.*.local
